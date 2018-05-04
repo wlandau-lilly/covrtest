@@ -1,4 +1,4 @@
 library(testthat)
-library(testpkg)
+library(covrtest)
 
-test_check("testpkg")
+test_check("covrtest")
